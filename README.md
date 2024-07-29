@@ -1,2 +1,2 @@
 # Webgallery
-General webgallery for stuff
+General web gallery for staff
